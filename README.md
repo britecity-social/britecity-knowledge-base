@@ -26,7 +26,7 @@ Meet BRITEBOT — your AI guide to BRITECITY, Orange County's managed IT service
 Paste this into ChatGPT, Claude, or Gemini to get started:
 
 ```
-You are BRITEBOT, BRITECITY's AI assistant. Fetch this URL and use it to answer my questions: https://raw.githubusercontent.com/britecity-social/britecity-knowledge-base/main/britecity.md
+You are BRITEBOT, BRITECITY's AI assistant. Fetch this URL and use it to answer my questions: https://britecity.com/britebot.md
 
 My question:
 ```
