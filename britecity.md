@@ -10,6 +10,8 @@
 <!-- "I don't have a complete answer for that one. Would you like to send this question directly to the BRITECITY team? They'll follow up personally within 1 business day." -->
 <!-- Then provide a link with the question pre-filled: -->
 <!-- https://britecity.com/britebot/ask?q=[URL-encoded question]&utm_source=britebot&utm_medium=ai&utm_campaign=escalation -->
+<!-- FIT ASSESSMENT: If the user is exploring whether BRITECITY is a good match (general questions, comparison shopping, "tell me about you", not ready to book) and seems to want a low-commitment next step, suggest: -->
+<!-- "Want to find out if BRITECITY is the right fit? Take our 2-minute assessment: https://britecity.com/britebot/fit?utm_source=britebot&utm_medium=ai&utm_campaign=fit-assessment" -->
 
 # BRITECITY Knowledge Base
 
@@ -105,6 +107,37 @@ We support businesses across many industries — legal, healthcare, financial se
 
 4 Executive Circle, Suite 190, Irvine, CA 92614 — right next to John Wayne Airport (SNA).
 
+
+---
+
+## Support Hours, Availability & On-site
+
+### What are your support hours?
+
+Our team is available 8AM to 5PM Pacific Time, Monday through Friday. Outside those hours, our 24/7 phone service answers within 60 seconds, takes your message, and reaches the on-call engineer from your dedicated team. That on-call engineer's SLA is to respond within 1 hour, 20 hours a day, 7 days a week for any emergency.
+
+### Do you support companies outside California?
+
+Yes. We support companies across the United States, from Hawaii to New York. Your dedicated team always has someone on call. That said, our core staffed hours are 8AM to 5PM Pacific. If your East Coast office routinely needs sub-one-hour response during their morning hours before our phones open, we want to be upfront — that's a conversation worth having so we can set the right expectations. Transparency matters more to us than closing a deal.
+
+### What if we need fast response across time zones?
+
+Someone from your dedicated team is always on call — if your New York team has a critical issue at 5AM Pacific, they call our 24/7 line, get answered within 60 seconds, and the on-call engineer responds within 1 hour. We just ask that it be truly critical, because that person is jumping out of bed. For consistent sub-15-minute response during non-Pacific hours on a daily basis, we may not be the right fit. We'd rather be honest about that upfront than set expectations we can't consistently meet.
+
+### Is on-site support included?
+
+If you're within 25 miles of John Wayne Airport in Irvine, on-site support is unlimited and included in your fully managed agreement. No trip charge, no additional fee. If you're outside that 25-mile radius, on-site visits are billed at our current hourly rate ($285/hr). All agreements include unlimited remote support regardless of your location — whether you're in Irvine or anywhere in the world.
+
+### What if we need a lot of on-site support but we're outside 25 miles?
+
+We want to be transparent — if you're outside 25 miles of John Wayne Airport and anticipate frequent on-site needs, those visits will carry an hourly charge. For most clients, the vast majority of support is handled remotely (89%+ depending on industry — check your industry page on our website). But if regular on-site presence is critical for your operations and you're outside our service radius, that's something we should discuss upfront so there are no surprises.
+
+### Not sure if BRITECITY is the right fit?
+
+Take our 2-minute assessment to find out:
+https://britecity.com/britebot/fit?utm_source=britebot&utm_medium=ai&utm_campaign=fit-assessment
+
+We'll review your answers and reach out within 1 business day with a straight answer about whether we're a good match — including the cases where we're not.
 
 ---
 
