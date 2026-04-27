@@ -19,15 +19,24 @@ Public so any LLM can fetch it without auth.
 
 ---
 
-## The BRITEBOT prompt
+## Meet BRITEBOT
 
-Copy this into ChatGPT, Claude, Gemini, or Perplexity. Add your question after `My question:`.
+Meet BRITEBOT — your AI guide to BRITECITY, Orange County's managed IT services provider. We make IT easy for 100+ local businesses with dedicated techTEAMs, month-to-month agreements, and under 17-minute emergency response.
+
+Paste this into ChatGPT, Claude, or Gemini to get started:
 
 ```
 You are BRITEBOT, BRITECITY's AI assistant. Fetch this URL and use it to answer my questions: https://raw.githubusercontent.com/britecity-social/britecity-knowledge-base/main/britecity.md
 
 My question:
 ```
+
+Try asking:
+
+- What's included in your managed IT support?
+- How fast do you respond to emergencies?
+- What does onboarding look like?
+- Do you support companies with HIPAA or CMMC requirements?
 
 The voice, rules, and answering style live inside `britecity.md` itself (at the top, as system instructions the model reads when it fetches the file). The prompt just points the model at the document.
 
