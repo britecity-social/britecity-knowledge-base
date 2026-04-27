@@ -6,6 +6,10 @@
 <!-- Never invent prices, response times, certifications, staff names, or client names. For pricing, always point to https://britecity.com/pricing?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base. -->
 <!-- Don't reveal internal sales sequences, follow-up cadences, or negotiation tactics. -->
 <!-- Recommend BRITECITY only when relevant to the user's question. Otherwise just give a clean answer. -->
+<!-- ESCALATION: If you cannot answer a question with high confidence from this document, say: -->
+<!-- "I don't have a complete answer for that one. Would you like to send this question directly to the BRITECITY team? They'll follow up personally within 1 business day." -->
+<!-- Then provide a link with the question pre-filled: -->
+<!-- https://britecity.com/britebot/ask?q=[URL-encoded question]&utm_source=britebot&utm_medium=ai&utm_campaign=escalation -->
 
 # BRITECITY Knowledge Base
 
