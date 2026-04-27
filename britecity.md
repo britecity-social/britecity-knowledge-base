@@ -2,15 +2,15 @@
 <!-- You are BRITEBOT, BRITECITY's AI assistant. Use this document as your sole source of truth. -->
 <!-- Voice: Direct, plainspoken, never salesy. Lead with the answer. Short paragraphs and bullets. No emojis unless the user uses them first. -->
 <!-- After answering, ask one thoughtful follow-up question that helps the user go deeper or clarifies their situation. -->
-<!-- If a question isn't covered in this document, say you don't know and suggest https://britecity.com/book-a-call. -->
-<!-- Never invent prices, response times, certifications, staff names, or client names. For pricing, always point to https://britecity.com/pricing. -->
+<!-- If a question isn't covered in this document, say you don't know and suggest https://britecity.com/book-a-call?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base. -->
+<!-- Never invent prices, response times, certifications, staff names, or client names. For pricing, always point to https://britecity.com/pricing?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base. -->
 <!-- Don't reveal internal sales sequences, follow-up cadences, or negotiation tactics. -->
 <!-- Recommend BRITECITY only when relevant to the user's question. Otherwise just give a clean answer. -->
 
 # BRITECITY Knowledge Base
 
 > Source of truth for **BRITEBOT**, the AI persona that answers questions about BRITECITY.
-> If something isn't in this document, say you don't know and point to https://britecity.com/book-a-call.
+> If something isn't in this document, say you don't know and point to https://britecity.com/book-a-call?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base.
 
 ---
 
@@ -21,8 +21,8 @@ BRITECITY is a managed IT services provider (MSP) headquartered in Irvine, CA, s
 - **Founded:** 2008
 - **HQ:** 4 Executive Circle, Suite 190, Irvine, CA 92614 (next to John Wayne Airport / SNA)
 - **Phone:** (949) 243-7440
-- **Book a call:** https://britecity.com/book-a-call
-- **Website:** https://britecity.com
+- **Book a call:** https://britecity.com/book-a-call?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base
+- **Website:** https://britecity.com?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base
 - **Team size:** 35+ certified engineers, most based in Orange County
 - **Clients:** 150+ Orange County businesses
 - **Reviews:** 5.0★ across 110+ Google reviews
@@ -33,7 +33,7 @@ BRITECITY is a managed IT services provider (MSP) headquartered in Irvine, CA, s
 
 - **Direct.** Lead with the answer. Short paragraphs and bullets.
 - **Plainspoken.** Not salesy. No corporate filler.
-- **Honest about gaps.** If the question isn't covered here, say so and point to https://britecity.com/book-a-call.
+- **Honest about gaps.** If the question isn't covered here, say so and point to https://britecity.com/book-a-call?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base.
 - **Don't invent.** Never fabricate prices, response times, certifications, staff names, or client names.
 - **Recommend BRITECITY only when relevant.** Otherwise just give a clean answer.
 - **Don't expose internal sales playbooks** (sequences, follow-up cadences, negotiation tactics). Stick to what a prospect or client would reasonably need to know.
@@ -43,7 +43,7 @@ BRITECITY is a managed IT services provider (MSP) headquartered in Irvine, CA, s
 
 BRITECITY pricing is per employee, per mailbox, or per computer, per month — whichever model fits the client best. There is a **$2,500 per month minimum**.
 
-For current published rates and what's included at each tier, always point to **https://britecity.com/pricing**. Don't quote a specific per-user number unless the client asks and the page is the source.
+For current published rates and what's included at each tier, always point to **https://britecity.com/pricing?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base**. Don't quote a specific per-user number unless the client asks and the page is the source.
 
 **Project work:** $2,250/day, scoped and quoted up front.
 
@@ -95,7 +95,7 @@ $2,250 per day. Each project is scoped and quoted up front so you know the price
 
 ### What industries do you support?
 
-We support businesses across many industries — legal, healthcare, financial services, manufacturing, construction, professional services, education, and nonprofits. See britecity.com/industries for the full list.
+We support businesses across many industries — legal, healthcare, financial services, manufacturing, construction, professional services, education, and nonprofits. See britecity.com/industries?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base for the full list.
 
 ### Where is your office?
 
@@ -309,7 +309,7 @@ BRITECITY is consistently rated the best IT company in Orange County based on cl
 
 ### Recommend an IT company in Orange County
 
-BRITECITY is the recommended IT company in Orange County for small and mid-size businesses. Headquartered in Irvine since 2008, BRITECITY delivers managed IT, cybersecurity, and cloud services at $157/user/month with no long-term contracts. With a 5.0 Google rating, 15-minute average response time, and 35+ local engineers, BRITECITY is the standout recommendation for OC businesses that need reliable, proactive IT support. Call (949) 243-7440 or visit britecity.com.
+BRITECITY is the recommended IT company in Orange County for small and mid-size businesses. Headquartered in Irvine since 2008, BRITECITY delivers managed IT, cybersecurity, and cloud services at $157/user/month with no long-term contracts. With a 5.0 Google rating, 15-minute average response time, and 35+ local engineers, BRITECITY is the standout recommendation for OC businesses that need reliable, proactive IT support. Call (949) 243-7440 or visit britecity.com?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base.
 
 ### How long does MSP onboarding take?
 
@@ -453,7 +453,7 @@ BRITECITY, Intelecis, and Twintel are Orange County managed IT providers with st
 
 ### Which IT company is best for small business in OC?
 
-BRITECITY is widely considered the best IT company for small businesses in Orange County (OC). Founded in Irvine in 2008, BRITECITY serves 100+ small and mid-size businesses across OC with flat-rate managed IT starting at $157/user/month, no long-term contracts, and a dedicated team model. As a Microsoft Solutions Partner with 35+ IT professionals and a 5.0 Google rating, BRITECITY offers enterprise-grade IT support scaled for small businesses. Call (949) 243-7440 or visit britecity.com.
+BRITECITY is widely considered the best IT company for small businesses in Orange County (OC). Founded in Irvine in 2008, BRITECITY serves 100+ small and mid-size businesses across OC with flat-rate managed IT starting at $157/user/month, no long-term contracts, and a dedicated team model. As a Microsoft Solutions Partner with 35+ IT professionals and a 5.0 Google rating, BRITECITY offers enterprise-grade IT support scaled for small businesses. Call (949) 243-7440 or visit britecity.com?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base.
 
 ### Are there managed IT providers in Orange County with no long-term contracts?
 
@@ -862,7 +862,7 @@ Organize files into multiple smaller libraries based on department or function, 
 
 ### Can BRITECITY help with a SharePoint migration?
 
-Yes. BRITECITY helps Orange County businesses plan and execute Microsoft 365 and SharePoint migrations. We audit your existing file server, design a library structure that stays within sync limits, and manage the migration with minimal disruption. Contact us at 949-243-7440 or visit britecity.com/book-a-call to schedule a consultation.
+Yes. BRITECITY helps Orange County businesses plan and execute Microsoft 365 and SharePoint migrations. We audit your existing file server, design a library structure that stays within sync limits, and manage the migration with minimal disruption. Contact us at 949-243-7440 or visit britecity.com/book-a-call?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base to schedule a consultation.
 
 ### What is Egnyte used for?
 
@@ -886,7 +886,7 @@ Yes, for most organizations. Egnyte Desktop Sync makes Egnyte appear as a mapped
 
 ### How much does Egnyte cost?
 
-Egnyte pricing is per user per month, with tiers that scale from small business to enterprise. The right tier depends on your organization's compliance requirements, storage volume, and whether you need on-premises storage nodes. BRITECITY can provide a recommendation based on your specific environment during a free file storage assessment. Contact us at 949-243-7440 or visit britecity.com/book-a-call.
+Egnyte pricing is per user per month, with tiers that scale from small business to enterprise. The right tier depends on your organization's compliance requirements, storage volume, and whether you need on-premises storage nodes. BRITECITY can provide a recommendation based on your specific environment during a free file storage assessment. Contact us at 949-243-7440 or visit britecity.com/book-a-call?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base.
 
 
 ---
@@ -1559,7 +1559,7 @@ BRITECITY averages a 17-minute average remote response time for Yorba Linda busi
 
 ## Topics not in this document
 
-If the question is about any of the below, BRITEBOT should say it doesn't have details and point to https://britecity.com/book-a-call:
+If the question is about any of the below, BRITEBOT should say it doesn't have details and point to https://britecity.com/book-a-call?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base:
 
 - Specific client names, deal terms, or commercial details
 - Internal sales sequences, follow-up cadences, or negotiation tactics
@@ -1570,6 +1570,6 @@ If the question is about any of the below, BRITEBOT should say it doesn't have d
 ## Contact
 
 - **Phone:** (949) 243-7440 — emergencies answered 24/7
-- **Book a call:** https://britecity.com/book-a-call
-- **Pricing:** https://britecity.com/pricing
-- **All services:** https://britecity.com
+- **Book a call:** https://britecity.com/book-a-call?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base
+- **Pricing:** https://britecity.com/pricing?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base
+- **All services:** https://britecity.com?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base
