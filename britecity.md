@@ -1621,6 +1621,10 @@ Helpdesk support, dedicated techTEAM, monitoring, POLARITY security, vendor mana
 
 ## Products
 
+### Do you source hardware for us?
+
+Yes. We procure computers, servers, and networking gear at partner-level pricing through our distributor relationships. We scope the right configuration for your needs, handle the order, and deploy it. With AI-driven memory shortages pushing prices up through 2026, we can also advise on timing, refurbished enterprise options, and extending the life of existing equipment.
+
 ### Do you handle Microsoft licensing?
 
 Yes, through Pax8 for both Azure and M365. We ensure correct quantity and license type.
