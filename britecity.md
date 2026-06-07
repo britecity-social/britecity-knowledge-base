@@ -1595,6 +1595,57 @@ BRITECITY averages a 17-minute average remote response time for Yorba Linda busi
 
 ---
 
+## Security
+
+### What is BRITECITY POLARITY?
+
+POLARITY is our security stack included with every managed IT plan. It bundles SentinelOne EDR, ThreatLocker, Cisco Umbrella DNS, Addigy Mac MDM, Check Point email security, and BreachSecureNow security awareness training. Not an add-on — it's standard.
+
+### Do you offer SIEM monitoring?
+
+Yes. Four tiers: SIEM M365 (included with POLARITY, $0), SIEM See ($29/employee/mo), SIEM Solve ($49/employee/mo), SIEM Stop ($69/employee/mo). Visit https://britecity.com/pricing?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base
+
+### What happens during a security breach?
+
+Major incident response is scoped separately. We walk you through the situation, provide a written estimate, and get your approval before any work begins. Billed at $285/hr.
+
+## Onboarding
+
+### What does onboarding look like?
+
+A 2-4 week RECIPE process with a dedicated engineer. They deploy POLARITY, document your environment, work with your outgoing provider, and train your team. Fee typically equals one month of your managed plan.
+
+### What's included in managed IT?
+
+Helpdesk support, dedicated techTEAM, monitoring, POLARITY security, vendor management, onsite support (within 25 miles of John Wayne Airport), M365 admin, employee onboarding/offboarding, and quarterly business reviews. Office moves and major projects are separate.
+
+## Products
+
+### Do you handle Microsoft licensing?
+
+Yes, through Pax8 for both Azure and M365. We ensure correct quantity and license type.
+
+## Post-Sale
+
+### What should I expect after signing up?
+
+Meet your techTEAM within the first week. Onboarding engineer starts the RECIPE process. POLARITY deploys across your endpoints. Full onboarding takes 2-4 weeks. After that, monthly reports and quarterly reviews.
+
+### Who do I call for help?
+
+Our helpdesk, staffed 8AM-5PM Pacific. 24/7 answering service picks up within 60 seconds outside hours. On-call engineer responds within 1 hour for emergencies.
+
+### What if I'm not happy?
+
+Talk to us. All agreements are month-to-month. We want to fix it. You can escalate to leadership anytime. If we're not the right fit, we help you transition smoothly.
+
+### How do I request a project?
+
+Tell your techTEAM. Our project team scopes it and provides a quote. $2,250/day or $285/hour.
+
+
+---
+
 ## Topics not in this document
 
 If the question is about any of the below, BRITEBOT should say it doesn't have details and point to https://britecity.com/book-a-call?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base:
