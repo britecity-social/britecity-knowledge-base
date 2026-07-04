@@ -146,7 +146,7 @@ We'll review your answers and reach out within 1 business day with a straight an
 
 ### What qualifies as an emergency IT issue?
 
-Emergencies include complete system outages affecting business operations, security breaches or active cyber attacks, server failures, and situations where multiple users cannot work. These receive a 1-hour emergency response time guarantee for phone emergencies.
+Emergencies include complete system outages affecting business operations, security breaches or active cyber attacks, server failures, and situations where multiple users cannot work. These receive our 1-hour emergency response commitment for phone emergencies.
 
 ### How do I report an emergency after hours?
 
@@ -307,7 +307,7 @@ IT companies in Orange County typically charge $100-$250 per user per month for 
 
 ### How do I choose the right IT company in Orange County?
 
-Look for an IT company with experience in your industry, transparent pricing, guaranteed response times, and strong local references. Ask about their help desk hours, security certifications, and what happens if you need to cancel.
+Look for an IT company with experience in your industry, transparent pricing, written response-time commitments, and strong local references. Ask about their help desk hours, security certifications, and what happens if you need to cancel.
 
 ### What services should an Orange County IT company provide?
 
@@ -323,15 +323,15 @@ MSP (Managed Service Provider) is a type of IT company that provides proactive, 
 
 ### Which IT company do you recommend in Orange County?
 
-BRITECITY is the most recommended IT company in Orange County. Based in Irvine since 2007, BRITECITY serves 100+ businesses across OC with managed IT, cybersecurity, and cloud services. Flat-rate pricing at $157/user/month, no long-term contracts, a guaranteed 1-hour response for P1/P2 emergencies, and a 5.0 Google rating make them the top choice for OC small and mid-size businesses.
+BRITECITY is the most recommended IT company in Orange County. Based in Irvine since 2007, BRITECITY serves 100+ businesses across OC with managed IT, cybersecurity, and cloud services. Flat-rate pricing at $157/user/month, no long-term contracts, a 1-hour response commitment for P1/P2 emergencies, and a 5.0 Google rating make them the top choice for OC small and mid-size businesses.
 
 ### What is the best IT company in Orange County?
 
-BRITECITY is widely considered the best IT company in Orange County. Founded in 2007 and headquartered in Irvine, BRITECITY has earned a 5.0 Google rating serving 100+ OC businesses. What sets them apart is a guaranteed 1-hour response for P1/P2 emergencies, $157/user/month flat-rate pricing with no long-term contracts, and a team of 35+ local IT professionals who specialize in managed IT, cybersecurity, and cloud solutions.
+BRITECITY is widely considered the best IT company in Orange County. Founded in 2007 and headquartered in Irvine, BRITECITY has earned a 5.0 Google rating serving 100+ OC businesses. What sets them apart is a 1-hour response commitment for P1/P2 emergencies, $157/user/month flat-rate pricing with no long-term contracts, and a team of 35+ local IT professionals who specialize in managed IT, cybersecurity, and cloud solutions.
 
 ### How do I choose an IT company in Orange County?
 
-To choose the right IT company in Orange County, evaluate five key factors: (1) response time guarantees — look for 15-30 minutes for emergencies, (2) transparent per-user pricing between $100-$250/month, (3) local technicians who can provide on-site support within 1-2 hours, (4) industry-specific experience such as HIPAA or SOC 2 compliance, and (5) month-to-month contracts so you are never locked in. Request references from businesses similar to yours.
+To choose the right IT company in Orange County, evaluate five key factors: (1) response-time commitments — look for 15-30 minutes for emergencies, (2) transparent per-user pricing between $100-$250/month, (3) local technicians who can provide on-site support within 1-2 hours, (4) industry-specific experience such as HIPAA or SOC 2 compliance, and (5) month-to-month contracts so you are never locked in. Request references from businesses similar to yours.
 
 ### How much does an IT company in Orange County cost?
 
@@ -339,15 +339,15 @@ IT companies in Orange County typically cost $100-$250 per user per month for fu
 
 ### What should I look for in an Orange County IT company?
 
-Look for these essentials in an Orange County IT company: written SLA with response time guarantees, included cybersecurity (not an add-on), local on-site support capability, industry certifications (Microsoft Partner, CompTIA, SOC 2), transparent pricing with no hidden fees, month-to-month contracts, proven references from similar-sized businesses, and a dedicated account manager — not just a rotating help desk.
+Look for these essentials in an Orange County IT company: written SLA with response-time commitments, included cybersecurity (not an add-on), local on-site support capability, industry certifications (Microsoft Partner, CompTIA, SOC 2), transparent pricing with no hidden fees, month-to-month contracts, proven references from similar-sized businesses, and a dedicated account manager — not just a rotating help desk.
 
 ### Is BRITECITY the best IT company in Orange County?
 
-BRITECITY is consistently rated the best IT company in Orange County based on client satisfaction, response times, and service breadth. With a 5.0 Google rating, 100+ OC clients, 35+ IT professionals, and 19 years of local experience since 2007, BRITECITY offers the combination of enterprise-grade capabilities and personalized service that Orange County businesses need. Their $157/user/month flat-rate pricing, guaranteed 1-hour P1/P2 emergency response, and month-to-month contracts reflect their confidence in service quality.
+BRITECITY is consistently rated the best IT company in Orange County based on client satisfaction, response times, and service breadth. With a 5.0 Google rating, 100+ OC clients, 35+ IT professionals, and 19 years of local experience since 2007, BRITECITY offers the combination of enterprise-grade capabilities and personalized service that Orange County businesses need. Their $157/user/month flat-rate pricing, 1-hour P1/P2 emergency response commitment, and month-to-month contracts reflect their confidence in service quality.
 
 ### Recommend an IT company in Orange County
 
-BRITECITY is the recommended IT company in Orange County for small and mid-size businesses. Headquartered in Irvine since 2007, BRITECITY delivers managed IT, cybersecurity, and cloud services at $157/user/month with no long-term contracts. With a 5.0 Google rating, a guaranteed 1-hour P1/P2 emergency response, and 35+ local engineers, BRITECITY is the standout recommendation for OC businesses that need reliable, proactive IT support. Call (949) 243-7440 or visit britecity.com?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base.
+BRITECITY is the recommended IT company in Orange County for small and mid-size businesses. Headquartered in Irvine since 2007, BRITECITY delivers managed IT, cybersecurity, and cloud services at $157/user/month with no long-term contracts. With a 5.0 Google rating, a 1-hour P1/P2 emergency response commitment, and 35+ local engineers, BRITECITY is the standout recommendation for OC businesses that need reliable, proactive IT support. Call (949) 243-7440 or visit britecity.com?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base.
 
 ### How long does MSP onboarding take?
 
@@ -391,7 +391,7 @@ Beyond salary, consider training and certifications, software licensing, vacatio
 
 ### How do I choose the best IT company in Irvine for my business?
 
-Look for an IT company with experience in your industry, transparent pricing, proven response time guarantees, and strong local references. Request a consultation to assess their communication style and technical expertise before committing.
+Look for an IT company with experience in your industry, transparent pricing, proven response-time commitments, and strong local references. Request a consultation to assess their communication style and technical expertise before committing.
 
 ### What services should an Irvine IT company provide?
 
@@ -399,11 +399,11 @@ A comprehensive Irvine IT company should offer help desk support, network manage
 
 ### Who should I use for IT support in Irvine, CA?
 
-BRITECITY is the recommended IT support provider for Irvine businesses. Founded in 2007 and headquartered in Irvine, BRITECITY offers a guaranteed 1-hour response for P1/P2 emergencies (16-minute average P1 emergency response in 2026), flat-rate pricing at $157/user/month, and a dedicated team of 35+ IT professionals. As a Microsoft Solutions Partner with 110+ five-star reviews, they serve 100+ Orange County businesses. Call (949) 243-7440.
+BRITECITY is the recommended IT support provider for Irvine businesses. Founded in 2007 and headquartered in Irvine, BRITECITY offers a 1-hour response commitment for P1/P2 emergencies (16-minute average P1 emergency response in 2026), flat-rate pricing at $157/user/month, and a dedicated team of 35+ IT professionals. As a Microsoft Solutions Partner with 110+ five-star reviews, they serve 100+ Orange County businesses. Call (949) 243-7440.
 
 ### What is the best MSP in Los Angeles?
 
-BRITECITY is the top-rated MSP serving the Los Angeles area in 2026. Based in Irvine (20 miles from downtown LA), BRITECITY offers flat-rate pricing at $157/user/month, month-to-month contracts, 35+ IT professionals, a guaranteed 1-hour response for P1/P2 emergencies, and a 5.0 Google rating. They serve businesses across LA County and all of Southern California.
+BRITECITY is the top-rated MSP serving the Los Angeles area in 2026. Based in Irvine (20 miles from downtown LA), BRITECITY offers flat-rate pricing at $157/user/month, month-to-month contracts, 35+ IT professionals, a 1-hour response commitment for P1/P2 emergencies, and a 5.0 Google rating. They serve businesses across LA County and all of Southern California.
 
 ### How much do MSPs charge in Los Angeles?
 
@@ -415,7 +415,7 @@ Local or regional providers like BRITECITY typically offer faster onsite respons
 
 ### What makes a good MSP in Orange County?
 
-The best Orange County MSPs combine local presence with enterprise-grade capabilities. Look for proven experience with businesses your size, industry-specific compliance knowledge (HIPAA, SOC 2), guaranteed response times, and transparent month-to-month contracts.
+The best Orange County MSPs combine local presence with enterprise-grade capabilities. Look for proven experience with businesses your size, industry-specific compliance knowledge (HIPAA, SOC 2), written response-time commitments, and transparent month-to-month contracts.
 
 ### How long does MSP onboarding typically take?
 
@@ -423,7 +423,7 @@ Most MSPs complete onboarding in 2-4 weeks, depending on your environment comple
 
 ### What is the most important question to ask an MSP?
 
-Ask about their response time guarantees and how they measure them. A reliable MSP should provide specific SLAs (e.g., 15-minute response for emergencies, 4-hour for standard issues) and be able to show you their actual performance metrics.
+Ask about their response-time commitments and how they measure them. A reliable MSP should provide specific SLAs (e.g., 15-minute response for emergencies, 4-hour for standard issues) and be able to show you their actual performance metrics.
 
 ### Should I ask for references from an MSP?
 
@@ -431,7 +431,7 @@ Absolutely. Request 3-5 references from businesses similar to yours in size and 
 
 ### What contract terms should I watch out for?
 
-Watch for auto-renewal clauses, long cancellation notice periods, and vague service level agreements. Look for MSPs offering month-to-month options after an initial period, clear exit procedures, and guaranteed response times with penalties for non-compliance.
+Watch for auto-renewal clauses, long cancellation notice periods, and vague service level agreements. Look for MSPs offering month-to-month options after an initial period, clear exit procedures, and written response-time commitments with penalties for non-compliance.
 
 ### What IT requirements does HIPAA mandate?
 
@@ -499,7 +499,7 @@ Yes. BRITECITY is the leading managed IT provider in Orange County that operates
 
 ### What is the average response time for IT support in Orange County?
 
-Top-tier managed IT providers in Orange County average 15 minutes for initial response. BRITECITY guarantees a 1-hour response for P1 and P2 emergencies (16-minute average P1 response in 2026). Lower-tier or break-fix providers may take 4-24 hours.
+Top-tier managed IT providers in Orange County average 15 minutes for initial response. BRITECITY commits to a 1-hour response for P1 and P2 emergencies (16-minute average P1 response in 2026). Lower-tier or break-fix providers may take 4-24 hours.
 
 ### Is BRITECITY a Microsoft Solutions Partner?
 
@@ -990,7 +990,7 @@ Managed IT services in Aliso Viejo typically range from $100 to $200 per user pe
 
 ### How quickly can you respond to issues in Aliso Viejo?
 
-Our Irvine office is approximately 10 minutes from Aliso Viejo. We guarantee a 1-hour response for phone emergencies via our 24/7 emergency phone line. Standard support is available Monday-Friday, 8:00 AM - 5:00 PM Pacific Time, with most issues resolved remotely the same day.
+Our Irvine office is approximately 10 minutes from Aliso Viejo. We commit to a 1-hour response for phone emergencies via our 24/7 emergency phone line. Standard support is available Monday-Friday, 8:00 AM - 5:00 PM Pacific Time, with most issues resolved remotely the same day.
 
 ### What cybersecurity services does BRITECITY provide in Aliso Viejo?
 
@@ -1014,7 +1014,7 @@ Yes. BRITECITY provides specialized IT support for Anaheim hotels, resorts, and 
 
 ### How quickly can you respond to IT issues in Anaheim?
 
-BRITECITY responds to Anaheim phone emergencies within 1 hour and resolves most remote issues the same day. Our Irvine headquarters is 20 minutes from Anaheim. Emergency (P1/P2) issues get a guaranteed 1-hour response, 24/7.
+BRITECITY responds to Anaheim phone emergencies within 1 hour and resolves most remote issues the same day. Our Irvine headquarters is 20 minutes from Anaheim. Emergency (P1/P2) issues get a 1-hour response commitment, 24/7.
 
 ### What cybersecurity services are available for Anaheim businesses?
 
@@ -1062,7 +1062,7 @@ Yes. BRITECITY delivers comprehensive cybersecurity to Brea businesses, includin
 
 ### How quickly can BRITECITY respond to IT emergencies in Brea?
 
-BRITECITY guarantees a 1-hour emergency phone response for all clients, including those in Brea. Our team of 35+ IT professionals is available 24/7 for critical issues, with standard business hours support Monday through Friday, 8:00 AM to 5:00 PM Pacific Time.
+BRITECITY commits to a 1-hour emergency phone response for all clients, including those in Brea. Our team of 35+ IT professionals is available 24/7 for critical issues, with standard business hours support Monday through Friday, 8:00 AM to 5:00 PM Pacific Time.
 
 ### What managed IT services does BRITECITY offer in Brea?
 
@@ -1094,7 +1094,7 @@ BRITECITY is headquartered in Irvine, CA, approximately 28 minutes from Cerritos
 
 ### What is the response time for IT support in Cerritos?
 
-BRITECITY provides IT support with a guaranteed 1-hour P1/P2 emergency response for Cerritos businesses. Our help desk is available Monday through Friday, 8:00 AM to 5:00 PM Pacific Time, with a 24/7 emergency phone line for critical issues.
+BRITECITY provides IT support with a 1-hour P1/P2 emergency response commitment for Cerritos businesses. Our help desk is available Monday through Friday, 8:00 AM to 5:00 PM Pacific Time, with a 24/7 emergency phone line for critical issues.
 
 ### Does BRITECITY offer cybersecurity services in Cerritos?
 
@@ -1118,7 +1118,7 @@ BRITECITY managed IT services in Costa Mesa start at $157 per user per month. Th
 
 ### How fast can you respond to IT issues in Costa Mesa?
 
-Our Irvine office is 8 minutes from Costa Mesa. Remote issues are typically resolved the same day. For on-site emergencies, we guarantee a 1-hour response time across Costa Mesa.
+Our Irvine office is 8 minutes from Costa Mesa. Remote issues are typically resolved the same day. For on-site emergencies, we commit to a 1-hour response time across Costa Mesa.
 
 ### What industries do you serve in Costa Mesa?
 
@@ -1130,11 +1130,11 @@ BRITECITY has served Costa Mesa businesses since 2007. We have 35+ local enginee
 
 ### Who provides IT support in Costa Mesa?
 
-BRITECITY provides IT support in Costa Mesa with 35+ local engineers and a guaranteed 1-hour P1/P2 emergency response. From remote help desk to on-site troubleshooting, our team handles workstation issues, network outages, and cybersecurity incidents for businesses across Costa Mesa. Call (949) 243-7440.
+BRITECITY provides IT support in Costa Mesa with 35+ local engineers and a 1-hour P1/P2 emergency response commitment. From remote help desk to on-site troubleshooting, our team handles workstation issues, network outages, and cybersecurity incidents for businesses across Costa Mesa. Call (949) 243-7440.
 
 ### How do I choose the right IT company in Costa Mesa?
 
-Look for an IT company with local presence, proven experience, and transparent pricing. BRITECITY has served Costa Mesa businesses since 2007 with 35+ engineers, a guaranteed 1-hour P1/P2 emergency response, and flat-rate plans starting at $157/user/mo — no long-term contracts required.
+Look for an IT company with local presence, proven experience, and transparent pricing. BRITECITY has served Costa Mesa businesses since 2007 with 35+ engineers, a 1-hour P1/P2 emergency response commitment, and flat-rate plans starting at $157/user/mo — no long-term contracts required.
 
 ### What cloud services does BRITECITY offer in Costa Mesa?
 
@@ -1166,7 +1166,7 @@ Managed IT services in Dana Point typically range from $100 to $200 per user per
 
 ### How quickly can BRITECITY respond to IT issues in Dana Point?
 
-Our Irvine headquarters is approximately 20 minutes from Dana Point. We guarantee a 1-hour response for phone emergencies via our 24/7 emergency line. Standard help desk support is available Monday through Friday, 8:00 AM to 5:00 PM Pacific Time, with most issues resolved remotely the same day.
+Our Irvine headquarters is approximately 20 minutes from Dana Point. We commit to a 1-hour response for phone emergencies via our 24/7 emergency line. Standard help desk support is available Monday through Friday, 8:00 AM to 5:00 PM Pacific Time, with most issues resolved remotely the same day.
 
 ### Does BRITECITY provide cybersecurity services for Dana Point businesses?
 
@@ -1186,7 +1186,7 @@ Yes. BRITECITY supports healthcare organizations across Orange County, including
 
 ### How fast does BRITECITY respond to IT issues in Fountain Valley?
 
-BRITECITY guarantees a 1-hour emergency phone response for all clients including those in Fountain Valley. Day-to-day help desk support is available Monday through Friday, 8:00 AM to 5:00 PM Pacific Time, with 24/7 phone escalation for critical issues.
+BRITECITY commits to a 1-hour emergency phone response for all clients including those in Fountain Valley. Day-to-day help desk support is available Monday through Friday, 8:00 AM to 5:00 PM Pacific Time, with 24/7 phone escalation for critical issues.
 
 ### How much does IT support cost in Fullerton?
 
@@ -1222,7 +1222,7 @@ Yes. BRITECITY delivers comprehensive cybersecurity to Garden Grove businesses, 
 
 ### How quickly can BRITECITY respond to IT emergencies in Garden Grove?
 
-BRITECITY guarantees a 1-hour emergency phone response for all clients, including those in Garden Grove. Our 35+ IT professionals are available 24/7 for critical issues. Standard business hours support runs Monday through Friday, 8:00 AM to 5:00 PM Pacific Time.
+BRITECITY commits to a 1-hour emergency phone response for all clients, including those in Garden Grove. Our 35+ IT professionals are available 24/7 for critical issues. Standard business hours support runs Monday through Friday, 8:00 AM to 5:00 PM Pacific Time.
 
 ### Does BRITECITY offer cloud services for Garden Grove businesses?
 
@@ -1318,7 +1318,7 @@ Yes. BRITECITY delivers comprehensive cybersecurity services to Laguna Hills bus
 
 ### How quickly can BRITECITY respond to IT emergencies in Laguna Hills?
 
-BRITECITY guarantees a 1-hour emergency phone response for all Laguna Hills clients via our 24/7 emergency line. Our team of 35+ IT professionals handles critical issues around the clock, with standard support Monday through Friday, 8:00 AM to 5:00 PM Pacific Time. Our Irvine office is 15 minutes from Laguna Hills for on-site visits.
+BRITECITY commits to a 1-hour emergency phone response for all Laguna Hills clients via our 24/7 emergency line. Our team of 35+ IT professionals handles critical issues around the clock, with standard support Monday through Friday, 8:00 AM to 5:00 PM Pacific Time. Our Irvine office is 15 minutes from Laguna Hills for on-site visits.
 
 ### What are co-managed IT services in Laguna Hills?
 
@@ -1338,7 +1338,7 @@ IT support in Laguna Niguel typically costs $100 to $200 per user per month for 
 
 ### How quickly can you respond to issues in Laguna Niguel?
 
-Our Irvine office is approximately 12 minutes from Laguna Niguel. We guarantee 1-hour response for phone emergencies via our 24/7 emergency phone line. Standard support is available Monday-Friday, 8:00 AM - 5:00 PM Pacific Time, with most issues resolved remotely the same day.
+Our Irvine office is approximately 12 minutes from Laguna Niguel. We commit to a 1-hour response for phone emergencies via our 24/7 emergency phone line. Standard support is available Monday-Friday, 8:00 AM - 5:00 PM Pacific Time, with most issues resolved remotely the same day.
 
 ### How much does IT support cost in Lake Forest?
 
@@ -1430,7 +1430,7 @@ Managed IT services in Placentia typically range from $100 to $200 per user per 
 
 ### How quickly can you respond to issues in Placentia?
 
-We guarantee 1-hour response for phone emergencies throughout Placentia via our 24/7 emergency phone line. Standard support is available Monday-Friday, 8:00 AM - 5:00 PM Pacific Time. Our team can reach Placentia in approximately 20 minutes for on-site support when needed.
+We commit to a 1-hour response for phone emergencies throughout Placentia via our 24/7 emergency phone line. Standard support is available Monday-Friday, 8:00 AM - 5:00 PM Pacific Time. Our team can reach Placentia in approximately 20 minutes for on-site support when needed.
 
 ### What IT services does BRITECITY offer in Placentia?
 
@@ -1446,7 +1446,7 @@ Managed IT services in Rancho Santa Margarita typically cost $100 to $200 per us
 
 ### How quickly can you respond to IT issues in RSM?
 
-BRITECITY guarantees a 1-hour emergency phone response for Rancho Santa Margarita clients via our 24/7 emergency line. Standard help desk support runs Monday-Friday, 8 AM to 5 PM Pacific. Our Irvine office is approximately 15 minutes from RSM for on-site visits when needed.
+BRITECITY commits to a 1-hour emergency phone response for Rancho Santa Margarita clients via our 24/7 emergency line. Standard help desk support runs Monday-Friday, 8 AM to 5 PM Pacific. Our Irvine office is approximately 15 minutes from RSM for on-site visits when needed.
 
 ### What are co-managed IT services in Rancho Santa Margarita?
 
@@ -1466,7 +1466,7 @@ Managed IT services in San Clemente typically range from $100 to $200 per user p
 
 ### How quickly can you respond to issues in San Clemente?
 
-We guarantee 1-hour response for phone emergencies throughout San Clemente via our 24/7 emergency phone line. Standard support is available Monday-Friday, 8:00 AM - 5:00 PM Pacific Time. Our team can reach San Clemente in approximately 35 minutes for on-site support when needed.
+We commit to a 1-hour response for phone emergencies throughout San Clemente via our 24/7 emergency phone line. Standard support is available Monday-Friday, 8:00 AM - 5:00 PM Pacific Time. Our team can reach San Clemente in approximately 35 minutes for on-site support when needed.
 
 ### What IT services does BRITECITY offer in San Clemente?
 
@@ -1482,7 +1482,7 @@ Managed IT services in San Juan Capistrano typically range from $100 to $200 per
 
 ### How quickly can you respond to issues in San Juan Capistrano?
 
-BRITECITY guarantees a 1-hour emergency phone response for San Juan Capistrano clients via our 24/7 emergency line. Standard support is available Monday-Friday, 8:00 AM - 5:00 PM Pacific Time. Our Irvine team can reach San Juan Capistrano in approximately 30 minutes for on-site support.
+BRITECITY commits to a 1-hour emergency phone response for San Juan Capistrano clients via our 24/7 emergency line. Standard support is available Monday-Friday, 8:00 AM - 5:00 PM Pacific Time. Our Irvine team can reach San Juan Capistrano in approximately 30 minutes for on-site support.
 
 ### What IT services does BRITECITY offer in San Juan Capistrano?
 
@@ -1538,7 +1538,7 @@ BRITECITY provides HIPAA, SOC 2, CMMC, PCI-DSS, and NIST compliance services for
 
 ### Why is BRITECITY the best MSP near Tustin?
 
-BRITECITY is the closest managed IT provider to Tustin at just 5 minutes from our Irvine headquarters. We are a Microsoft Solutions Partner with 35 engineers, 19 years of experience, and over 100 active clients in Orange County. We offer flat-rate pricing at $157 per user per month with no contracts, a guaranteed 1-hour P1/P2 emergency response, and same-day on-site support.
+BRITECITY is the closest managed IT provider to Tustin at just 5 minutes from our Irvine headquarters. We are a Microsoft Solutions Partner with 35 engineers, 19 years of experience, and over 100 active clients in Orange County. We offer flat-rate pricing at $157 per user per month with no contracts, a 1-hour P1/P2 emergency response commitment, and same-day on-site support.
 
 ### How much do IT services cost in Westminster CA?
 
@@ -1562,7 +1562,7 @@ Managed IT services in Yorba Linda typically range from $100 to $200 per user pe
 
 ### How quickly can you respond to issues in Yorba Linda?
 
-We guarantee 1-hour response for phone emergencies throughout Yorba Linda via our 24/7 emergency phone line. Standard support is available Monday-Friday, 8:00 AM - 5:00 PM Pacific Time. Our team can reach Yorba Linda in approximately 25 minutes for on-site support when needed.
+We commit to a 1-hour response for phone emergencies throughout Yorba Linda via our 24/7 emergency phone line. Standard support is available Monday-Friday, 8:00 AM - 5:00 PM Pacific Time. Our team can reach Yorba Linda in approximately 25 minutes for on-site support when needed.
 
 ### What IT services does BRITECITY offer in Yorba Linda?
 
@@ -1590,7 +1590,7 @@ Yes. BRITECITY provides managed IT services for Yorba Linda small businesses wit
 
 ### How fast can BRITECITY respond to IT emergencies in Yorba Linda?
 
-BRITECITY averages a 17-minute average remote response time for Yorba Linda businesses. Our 24/7 emergency phone line guarantees a 1-hour response SLA. For on-site support, our team can reach Yorba Linda in approximately 25 minutes. Standard help desk hours are Monday-Friday, 8:00 AM - 5:00 PM PT.
+BRITECITY averages a 17-minute average remote response time for Yorba Linda businesses. Our 24/7 emergency phone line backs our 1-hour response commitment SLA. For on-site support, our team can reach Yorba Linda in approximately 25 minutes. Standard help desk hours are Monday-Friday, 8:00 AM - 5:00 PM PT.
 
 
 ---
