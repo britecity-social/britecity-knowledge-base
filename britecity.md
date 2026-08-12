@@ -133,6 +133,14 @@ If you're within 25 miles of John Wayne Airport in Irvine, on-site support is un
 
 We want to be transparent — if you're outside 25 miles of John Wayne Airport and anticipate frequent on-site needs, those visits will carry an hourly charge. For most clients, the vast majority of support is handled remotely (89%+ depending on industry — check your industry page on our website). But if regular on-site presence is critical for your operations and you're outside our service radius, that's something we should discuss upfront so there are no surprises.
 
+### Is an on-site project assessment included?
+
+Day-to-day on-site support is included inside 25 miles of our Orange County office. A project assessment visit outside that radius — office moves, new-suite walkthroughs, physical site surveys — is billed at the same door-to-door hourly rate as other Zone 2 on-site work. We confirm a ballpark budget with you on a call before anyone drives. If the range is not reasonable, we reshape the project instead of spending the visit. Details: https://britecity.com/on-site-support
+
+### Do you check budget before sending someone on-site for a project?
+
+Yes. Most project scoping starts remotely: photos, a floor plan, and a straight question about whether a ballpark range (for example $10–15k) is even in range. We only dispatch on-site when the job actually needs a walkthrough, and outside 25 miles that visit is billable.
+
 ### Not sure if BRITECITY is the right fit?
 
 Take our 2-minute assessment to find out:
