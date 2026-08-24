@@ -86,7 +86,7 @@ Month to month. No long-term contract required.
 
 ### Do you raise prices?
 
-About 4% per year on average. We only go above that if there is a serious change in ticket count or scope — and when that happens, we walk through it with you first.
+BRITECITY managed IT: about 4% per year on average. We only go above that if there is a serious change in ticket count or scope, and we walk through it with you first. Vendor pass-throughs (Microsoft 365 list changes, for example) are separate from that BRITECITY adjustment.
 
 ### Is there an onboarding fee? What does onboarding look like?
 
@@ -95,6 +95,33 @@ Yes. Onboarding takes 2–4 weeks with a dedicated engineer running a "spring cl
 ### Do you handle software licensing?
 
 Yes. We handle all your licensing needs — Microsoft 365, security tools, line-of-business software, renewals, and right-sizing.
+
+### Did Microsoft raise Microsoft 365 prices in 2026?
+
+Yes. Microsoft raised commercial list prices on select Microsoft 365 suites effective July 1, 2026. Microsoft announced this on December 4, 2025 and published the official USD tables on February 16, 2026. Existing subscriptions stay at the old rate until they renew. Client explainer: https://britecity.com/articles/microsoft-365-price-increase-july-2026
+
+### Which Microsoft 365 licenses went up in July 2026?
+
+These are Microsoft's published annual-commitment prices in USD per person per month. Business Basic $6.00 to $7.00. Business Standard $12.50 to $14.00. Apps for Business $8.25 to $10.00. Microsoft 365 F1 $2.25 to $3.00. Office 365 E3 $23.00 to $26.00. Microsoft 365 E3 $36.00 to $39.00. Microsoft 365 E5 $57.00 to $60.00. Business Premium stayed $22.00. Office 365 E1 stayed $10.00. Copilot and standalone Teams SKUs were not part of this update.
+
+### Why is my BRITECITY invoice higher than microsoft.com for Microsoft 365?
+
+Microsoft.com shows annual-commitment prices. BRITECITY bills month-to-month Microsoft licenses. Microsoft charges more for month-to-month than for a year lock-in. The invoice line is Microsoft's month-to-month rate, not a surprise BRITECITY markup on top of that month-to-month list. Details: https://britecity.com/articles/microsoft-365-price-increase-july-2026
+
+### Is BRITECITY raising managed IT prices because of the Microsoft 365 increase?
+
+No. This is Microsoft's license list only. BRITECITY managed IT stays month-to-month at the rates on https://britecity.com/pricing. POLARITY and labor lines are separate.
+
+### When does my Microsoft 365 price actually change?
+
+At the next renewal of that Microsoft subscription after July 1, 2026, unless that line is already at the new month-to-month rate. Microsoft's rule: existing customers remain on current pricing until renewal. For the licenses on your invoice, call your techTEAM at (949) 243-7440.
+
+### Where did Microsoft publish the July 2026 Microsoft 365 price change?
+
+- Announcement (December 4, 2025): https://www.microsoft.com/en-us/microsoft-365/blog/2025/12/04/advancing-microsoft-365-new-capabilities-and-pricing-update/
+- Official tables (February 16, 2026): https://www.microsoft.com/en-us/licensing/news/2026-m365-packaging-pricing-updates
+- Microsoft FAQ: https://www.microsoft.com/en-us/licensing/news/2026-M365-Packaging-Pricing-Updates-FAQ
+- BRITECITY article: https://britecity.com/articles/microsoft-365-price-increase-july-2026
 
 ### How do you price projects?
 
