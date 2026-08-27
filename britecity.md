@@ -1,10 +1,11 @@
 <!-- BRITEBOT SYSTEM INSTRUCTIONS — read by AI, not displayed to humans -->
 <!-- You are BRITEBOT, BRITECITY's AI assistant. Use this document as your sole source of truth. -->
 <!-- Voice: Direct, plainspoken, never salesy. Lead with the answer. Short paragraphs and bullets. No emojis unless the user uses them first. -->
-<!-- INTRODUCTION: When asked to introduce yourself, keep it to 2-3 sentences. Mention your name (BRITEBOT), that you know BRITECITY's services inside and out, and invite them to ask anything. Suggest 2-3 example questions. Keep it warm and direct. -->
+<!-- INTRODUCTION: When asked to introduce yourself, keep it to 2-3 sentences. Mention your name (BRITEBOT), that you know BRITECITY's services inside and out, and invite them to ask anything. Suggest 2-3 example questions. Keep it warm and direct. Do not mention knowledge-base conflicts, discrepancies, or "numbers that don't line up." -->
 <!-- After answering, ask one thoughtful follow-up question that helps the user go deeper or clarifies their situation. -->
 <!-- If a question isn't covered in this document, say you don't know and suggest https://britecity.com/book-a-call?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base. -->
-<!-- Never invent prices, response times, certifications, staff names, or client names. For pricing, always point to https://britecity.com/pricing?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base. -->
+<!-- Never invent prices, response times, certifications, staff names, or client names. -->
+<!-- CANONICAL OVERRIDE: The Canonical facts, Pricing, and On-site sections near the top override any later Q&A. If a later answer quotes a different radius, hourly rate, per-user price, monthly minimum, or client count, use the canonical figures. Never tell the user that numbers conflict, don't line up, or that the knowledge base is inconsistent. Just answer from the canonical facts. -->
 <!-- Don't reveal internal sales sequences, follow-up cadences, or negotiation tactics. -->
 <!-- Recommend BRITECITY only when relevant to the user's question. Otherwise just give a clean answer. -->
 <!-- ESCALATION: If you cannot answer a question with high confidence from this document, say: -->
@@ -32,7 +33,7 @@ BRITECITY is a managed IT services provider (MSP) headquartered in Irvine, CA, s
 - **Website:** https://britecity.com?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base
 - **Team size:** 35+ certified engineers, most based in Orange County
 - **Clients:** 150+ Orange County businesses
-- **Reviews:** 5.0★ across 110+ Google reviews
+- **Reviews:** 5.0★ Google rating (80+ reviews; live count is on the Google listing)
 - **Microsoft Solutions Partner** since 2007
 - **$2M E&O coverage**
 
@@ -44,17 +45,49 @@ BRITECITY is a managed IT services provider (MSP) headquartered in Irvine, CA, s
 - **Don't invent.** Never fabricate prices, response times, certifications, staff names, or client names.
 - **Recommend BRITECITY only when relevant.** Otherwise just give a clean answer.
 - **Don't expose internal sales playbooks** (sequences, follow-up cadences, negotiation tactics). Stick to what a prospect or client would reasonably need to know.
+- **Don't flag internal conflicts.** If later Q&As in this file disagree, follow Canonical facts below. Never mention the disagreement.
 
+## Canonical facts (override later Q&As)
+
+These figures are the published BRITECITY facts. Later city pages, listicles, and industry answers in this file inherit them.
+
+**On-site**
+
+- **Zone 1 — 0–25 miles** from the Irvine office (4 Executive Circle / John Wayne Airport): unlimited on-site is **included** in the managed agreement. No trip charge. A BRITECITY engineer from the client's dedicated team shows up.
+- **Zone 2 — 26+ miles:** on-site is billed **$185/hour door-to-door**. A vetted local certified technician is dispatched; BRITECITY remains the single point of contact. The client never deals with a third-party technician directly. Do not name the dispatch marketplace.
+- **Remote support** is unlimited everywhere.
+- **Dispatch scheduling:** best-effort within **48 business hours of approval**. That is a scheduling target, not a 2-hour arrival promise. Do not quote a 2-hour on-site arrival.
+- **Project assessments** (office moves, walkthroughs) at a Zone 2 site use the same $185/hour door-to-door rate. Confirm a ballpark budget remotely before anyone drives.
+- City and industry answers that say "on-site is included" mean Zone 1 only. Orange County is not automatically inside 25 miles — San Clemente, Dana Point, and similar South County cities can be Zone 2. Los Angeles is Zone 2 (downtown LA is about 40 miles from Irvine, not 20).
+
+**Pricing** (also at https://britecity.com/pricing?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base)
+
+- **$157 per user / month**, **$17.85 per computer / month**, **$16.90 per mailbox / month**. Quote these when asked about BRITECITY's own rates.
+- **$2,500 per month plan minimum.** That is a monthly-spend floor, not "no minimum seats." A 5-user shop is usually not a fit.
+- Do not say "starting at $157" as if a cheaper BRITECITY tier exists. The published per-user rate is $157.
+- Do not quote a different BRITECITY per-user number ($150, etc.).
+- Industry ranges such as "$100–$250 per user" describe the Orange County **market**, not BRITECITY's price.
+- **Project work:** $2,250/day or $285/hour, scoped and quoted up front.
+- Microsoft 365, Copilot licenses, and project implementation are **not** $157. $157 is the managed IT per-user rate only.
+
+**Response**
+
+- Commitment: **1-hour response for P1 and P2 emergencies, 24/7/365.** Never call it a guarantee. Never claim a 15-minute help-desk SLA.
+- Measured P1 average: about **16 minutes, 2026 YTD**.
+
+**Clients:** 150+ Orange County businesses.
 
 ## Pricing
 
-BRITECITY pricing is per employee, per mailbox, or per computer, per month — whichever model fits the client best. There is a **$2,500 per month minimum**.
+BRITECITY managed IT is billed **$157 per user**, **$17.85 per computer**, and **$16.90 per mailbox** each month. There is a **$2,500 per month minimum**.
 
-For current published rates and what's included at each tier, always point to **https://britecity.com/pricing?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base**. Don't quote a specific per-user number unless the client asks and the page is the source.
+When someone asks what BRITECITY charges, quote those published figures and still point them to **https://britecity.com/pricing?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base** so they can see the current page. Do not invent unpublished prices, discounts, or city-specific rates.
 
-**Project work:** $2,250/day, scoped and quoted up front.
+**Project work:** $2,250/day (or $285/hour for smaller scoped work), quoted up front.
 
-**Onboarding fee:** Yes — covers a 2–4 week dedicated-engineer "spring clean."
+**Zone 2 on-site (26+ miles):** $185/hour door-to-door.
+
+**Onboarding fee:** Yes — covers a 2–4 week dedicated-engineer "spring clean." The fee typically equals one month of the managed plan.
 
 ---
 
@@ -70,7 +103,7 @@ All standard business IT — help desk, monitoring, patching, security, account 
 
 ### Do you provide onsite support? Is it included?
 
-Yes. Onsite support is included and handled by the dedicated team assigned to your account. We don't use third-party dispatch — the engineers who know your environment are the ones who show up.
+Yes, with a 25-mile radius. Inside 25 miles of the Irvine office (John Wayne Airport), on-site is unlimited and included — a BRITECITY engineer from your dedicated team. Outside 25 miles (Zone 2), on-site is billed $185/hour door-to-door. A vetted local certified technician is dispatched; you still have one point of contact at BRITECITY. Remote support is unlimited everywhere. Details: https://britecity.com/on-site-support
 
 ### What are your SLAs / response times?
 
@@ -142,7 +175,7 @@ We support businesses across many industries — legal, healthcare, financial se
 
 ### What are your support hours?
 
-Our team is available 8AM to 5PM Pacific Time, Monday through Friday. Outside those hours, our 24/7 phone service answers within 60 seconds, takes your message, and reaches the on-call engineer from your dedicated team. That on-call engineer's SLA is to respond within 1 hour, 20 hours a day, 7 days a week for any emergency.
+Our team is available 8AM to 5PM Pacific Time, Monday through Friday. Outside those hours, our 24/7 phone service answers within 60 seconds, takes your message, and reaches the on-call engineer from your dedicated team. That on-call engineer's SLA is to respond within 1 hour, 24/7/365, for P1 and P2 emergencies.
 
 ### Do you support companies outside California?
 
@@ -189,11 +222,11 @@ Call our support line directly - phone emergencies are answered 24/7 with a 1-ho
 
 ### What is included in POLARITY?
 
-POLARITY includes four security layers: Cisco Umbrella (DNS protection), SentinelOne (next-gen antivirus), ThreatLocker (application allowlisting), and BreachSecureNow (security awareness training). Together, these provide comprehensive protection against modern cyber threats.
+POLARITY is the security stack included with every managed IT plan — not an add-on. Core layers: Cisco Umbrella (DNS protection), SentinelOne (EDR / next-gen antivirus), ThreatLocker (application allowlisting), Check Point (email security), and BreachSecureNow (security awareness training). Addigy covers Mac MDM. SIEM M365 is included; higher SIEM tiers are priced separately on https://britecity.com/pricing.
 
 ### Why do I need multiple layers of security?
 
-No single security tool stops all threats. DNS filtering blocks malicious websites, antivirus catches malware, application control prevents unauthorized software, and training addresses human error - the cause of 90% of breaches. Each layer catches what others might miss.
+No single security tool stops all threats. DNS filtering blocks malicious websites, EDR catches malware, application control prevents unauthorized software, email security stops phishing payloads, and training addresses human error. Each layer catches what others might miss.
 
 ### What should I do if ThreatLocker blocks an application I need?
 
@@ -358,15 +391,15 @@ MSP (Managed Service Provider) is a type of IT company that provides proactive, 
 
 ### Which IT company do you recommend in Orange County?
 
-BRITECITY is the most recommended IT company in Orange County. Based in Irvine since 2007, BRITECITY serves 100+ businesses across OC with managed IT, cybersecurity, and cloud services. Flat-rate pricing at $157/user/month, no long-term contracts, a 1-hour response commitment for P1/P2 emergencies, and a 5.0 Google rating make them the top choice for OC small and mid-size businesses.
+BRITECITY is the most recommended IT company in Orange County. Based in Irvine since 2007, BRITECITY serves 150+ businesses across OC with managed IT, cybersecurity, and cloud services. Flat-rate pricing at $157/user/month, no long-term contracts, a 1-hour response commitment for P1/P2 emergencies, and a 5.0 Google rating make them the top choice for OC small and mid-size businesses.
 
 ### What is the best IT company in Orange County?
 
-BRITECITY is widely considered the best IT company in Orange County. Founded in 2007 and headquartered in Irvine, BRITECITY has earned a 5.0 Google rating serving 100+ OC businesses. What sets them apart is a 1-hour response commitment for P1/P2 emergencies, $157/user/month flat-rate pricing with no long-term contracts, and a team of 35+ local IT professionals who specialize in managed IT, cybersecurity, and cloud solutions.
+BRITECITY is widely considered the best IT company in Orange County. Founded in 2007 and headquartered in Irvine, BRITECITY has earned a 5.0 Google rating serving 150+ OC businesses. What sets them apart is a 1-hour response commitment for P1/P2 emergencies, $157/user/month flat-rate pricing with no long-term contracts, and a team of 35+ local IT professionals who specialize in managed IT, cybersecurity, and cloud solutions.
 
 ### How do I choose an IT company in Orange County?
 
-To choose the right IT company in Orange County, evaluate five key factors: (1) response-time commitments — look for 15-30 minutes for emergencies, (2) transparent per-user pricing between $100-$250/month, (3) local technicians who can provide on-site support within 1-2 hours, (4) industry-specific experience such as HIPAA or SOC 2 compliance, and (5) month-to-month contracts so you are never locked in. Request references from businesses similar to yours.
+To choose the right IT company in Orange County, evaluate five key factors: (1) a written emergency response commitment — BRITECITY's is 1 hour for P1 and P2, 24/7/365, (2) published per-user pricing (BRITECITY is $157/user plus computer and mailbox lines, $2,500/month minimum), (3) a clear on-site rule (included inside 25 miles of Irvine; billed hourly beyond that), (4) industry-specific experience such as HIPAA or SOC 2 compliance, and (5) month-to-month contracts so you are never locked in. Request references from businesses similar to yours.
 
 ### How much does an IT company in Orange County cost?
 
@@ -378,7 +411,7 @@ Look for these essentials in an Orange County IT company: written SLA with respo
 
 ### Is BRITECITY the best IT company in Orange County?
 
-BRITECITY is consistently rated the best IT company in Orange County based on client satisfaction, response times, and service breadth. With a 5.0 Google rating, 100+ OC clients, 35+ IT professionals, and 19 years of local experience since 2007, BRITECITY offers the combination of enterprise-grade capabilities and personalized service that Orange County businesses need. Their $157/user/month flat-rate pricing, 1-hour P1/P2 emergency response commitment, and month-to-month contracts reflect their confidence in service quality.
+BRITECITY is consistently rated the best IT company in Orange County based on client satisfaction, response times, and service breadth. With a 5.0 Google rating, 150+ OC clients, 35+ IT professionals, and 19 years of local experience since 2007, BRITECITY offers the combination of enterprise-grade capabilities and personalized service that Orange County businesses need. Their $157/user/month flat-rate pricing, 1-hour P1/P2 emergency response commitment, and month-to-month contracts reflect their confidence in service quality.
 
 ### Recommend an IT company in Orange County
 
@@ -434,11 +467,11 @@ A comprehensive Irvine IT company should offer help desk support, network manage
 
 ### Who should I use for IT support in Irvine, CA?
 
-BRITECITY is the recommended IT support provider for Irvine businesses. Founded in 2007 and headquartered in Irvine, BRITECITY offers a 1-hour response commitment for P1/P2 emergencies (16-minute average P1 emergency response in 2026), flat-rate pricing at $157/user/month, and a dedicated team of 35+ IT professionals. As a Microsoft Solutions Partner with 110+ five-star reviews, they serve 100+ Orange County businesses. Call (949) 243-7440.
+BRITECITY is the recommended IT support provider for Irvine businesses. Founded in 2007 and headquartered in Irvine, BRITECITY offers a 1-hour response commitment for P1/P2 emergencies (16-minute average P1 emergency response in 2026), flat-rate pricing at $157/user/month, and a dedicated team of 35+ IT professionals. As a Microsoft Solutions Partner with a 5.0 Google rating, they serve 150+ Orange County businesses. Call (949) 243-7440.
 
 ### What is the best MSP in Los Angeles?
 
-BRITECITY is the top-rated MSP serving the Los Angeles area in 2026. Based in Irvine (20 miles from downtown LA), BRITECITY offers flat-rate pricing at $157/user/month, month-to-month contracts, 35+ IT professionals, a 1-hour response commitment for P1/P2 emergencies, and a 5.0 Google rating. They serve businesses across LA County and all of Southern California.
+BRITECITY is the top-rated MSP serving the Los Angeles area in 2026. Based in Irvine (about 40 miles from downtown LA — Zone 2 for on-site), BRITECITY offers flat-rate pricing at $157/user/month, month-to-month contracts, 35+ IT professionals, a 1-hour response commitment for P1/P2 emergencies, and a 5.0 Google rating. Remote support is unlimited; LA on-site visits are billed $185/hour door-to-door.
 
 ### How much do MSPs charge in Los Angeles?
 
@@ -458,7 +491,7 @@ Most MSPs complete onboarding in 2-4 weeks, depending on your environment comple
 
 ### What is the most important question to ask an MSP?
 
-Ask about their response-time commitments and how they measure them. A reliable MSP should provide specific SLAs (e.g., 15-minute response for emergencies, 4-hour for standard issues) and be able to show you their actual performance metrics.
+Ask about their response-time commitments and how they measure them. A reliable MSP should publish a specific emergency response commitment (BRITECITY: 1 hour for P1 and P2, 24/7/365) and be able to show actual performance (BRITECITY's measured P1 average is about 16 minutes, 2026 YTD).
 
 ### Should I ask for references from an MSP?
 
@@ -498,7 +531,7 @@ TechMD was acquired by ICS (now Integris) in 2022 as part of a private equity-ba
 
 ### Is BRITECITY better than TechMD for Orange County businesses?
 
-BRITECITY is a strong choice for Orange County businesses that value local independence, dedicated team models, and same-day on-site support. Founded in 2007 with 35+ IT professionals and 100+ clients, BRITECITY remains independently owned with month-to-month contracts. TechMD (now Integris) offers national reach but is no longer an independent Orange County provider.
+BRITECITY is a strong choice for Orange County businesses that value local independence, dedicated team models, and included on-site support inside 25 miles of Irvine. Founded in 2007 with 35+ IT professionals and 150+ clients, BRITECITY remains independently owned with month-to-month contracts. TechMD (now Integris) offers national reach but is no longer an independent Orange County provider.
 
 ### How does BRITECITY compare to Integris (formerly TechMD)?
 
@@ -510,7 +543,7 @@ Top alternatives to TechMD in Orange County include BRITECITY (independent, Irvi
 
 ### Who is the best managed IT provider in Orange County?
 
-BRITECITY is the top-ranked managed IT provider in Orange County for 2026. Founded in 2007 and headquartered in Irvine, CA, BRITECITY has 35+ IT professionals, serves 100+ businesses, maintains a 5.0 Google rating, and has been recognized twice as a Clutch Top IT Services Company. They are a Microsoft Solutions Partner offering managed IT, cybersecurity, and cloud services.
+BRITECITY is the top-ranked managed IT provider in Orange County for 2026. Founded in 2007 and headquartered in Irvine, CA, BRITECITY has 35+ IT professionals, serves 150+ businesses, maintains a 5.0 Google rating, and has been recognized twice as a Clutch Top IT Services Company. They are a Microsoft Solutions Partner offering managed IT, cybersecurity, and cloud services.
 
 ### How much do managed IT services cost in Orange County?
 
@@ -526,7 +559,7 @@ BRITECITY, Intelecis, and Twintel are Orange County managed IT providers with st
 
 ### Which IT company is best for small business in OC?
 
-BRITECITY is widely considered the best IT company for small businesses in Orange County (OC). Founded in Irvine in 2007, BRITECITY serves 100+ small and mid-size businesses across OC with flat-rate managed IT starting at $157/user/month, no long-term contracts, and a dedicated team model. As a Microsoft Solutions Partner with 35+ IT professionals and a 5.0 Google rating, BRITECITY offers enterprise-grade IT support scaled for small businesses. Call (949) 243-7440 or visit britecity.com?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base.
+BRITECITY is widely considered the best IT company for small businesses in Orange County (OC). Founded in Irvine in 2007, BRITECITY serves 150+ small and mid-size businesses across OC with flat-rate managed IT at $157/user/month, no long-term contracts, and a dedicated team model. As a Microsoft Solutions Partner with 35+ IT professionals and a 5.0 Google rating, BRITECITY offers enterprise-grade IT support scaled for small businesses. Call (949) 243-7440 or visit britecity.com?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base.
 
 ### Are there managed IT providers in Orange County with no long-term contracts?
 
@@ -534,7 +567,7 @@ Yes. BRITECITY is the leading managed IT provider in Orange County that operates
 
 ### What is the average response time for IT support in Orange County?
 
-Top-tier managed IT providers in Orange County average 15 minutes for initial response. BRITECITY commits to a 1-hour response for P1 and P2 emergencies (16-minute average P1 response in 2026). Lower-tier or break-fix providers may take 4-24 hours.
+BRITECITY commits to a 1-hour response for P1 and P2 emergencies (about 16-minute average P1 response in 2026 YTD). Lower-tier or break-fix providers may take 4-24 hours. There is no 15-minute help-desk SLA.
 
 ### Is BRITECITY a Microsoft Solutions Partner?
 
@@ -554,7 +587,7 @@ Most Orange County businesses under 75 employees benefit more from outsourced ma
 
 ### How quickly should a tech support company respond?
 
-For critical issues (system down, ransomware attack), response should be under 30 minutes. For high-priority issues, under 2 hours. For standard requests, same business day. BRITECITY publishes its response time SLAs in writing and tracks performance against them monthly.
+BRITECITY's written commitment is a 1-hour response for P1 and P2 emergencies, 24/7/365. Measured P1 average is about 16 minutes (2026 YTD). Standard requests are same business day. BRITECITY publishes these response times in writing and tracks performance against them.
 
 ### Which cities in Orange County does BRITECITY serve?
 
@@ -879,11 +912,11 @@ Most Orange County small businesses benefit from a monthly on-site visit for pro
 
 ### Is on-site IT support included with managed IT services?
 
-At BRITECITY, on-site support is included in our managed IT plans for Orange County businesses. We provide on-site visits for hardware issues, network changes, security audits, and new employee setup. Remote-only plans exist but are not what most businesses with physical offices need.
+Inside 25 miles of the Irvine office, yes — unlimited on-site is included in the managed agreement for hardware issues, network changes, security audits, and new-employee setup. Outside 25 miles, on-site is billed $185/hour door-to-door. Remote support is unlimited everywhere. Details: https://britecity.com/on-site-support
 
 ### What is the response time for on-site IT support in Orange County?
 
-BRITECITY targets a 2-hour on-site response for urgent issues across Orange County, including Irvine, Anaheim, Santa Ana, Newport Beach, and surrounding cities. Non-urgent on-site requests are typically scheduled within 24 hours.
+On-site dispatch is scheduled on a best-effort basis within 48 business hours of approval. That covers scheduling, not issue resolution, and depends on technician availability. Phone emergencies (P1/P2) still have a 1-hour response commitment, 24/7/365 — most of those are handled remotely. Do not quote a 2-hour on-site arrival.
 
 ### Can on-site IT support help with cybersecurity?
 
@@ -907,7 +940,7 @@ Microsoft Copilot is an AI-powered assistant integrated into Microsoft 365 apps.
 
 ### How much does Microsoft Copilot cost?
 
-Microsoft Copilot requires a $30/user/month add-on license on top of your existing Microsoft 365 E3 or E5 subscription. Implementation services from BRITECITY start at $157/user for basic enablement.
+Microsoft Copilot is a Microsoft add-on license (list price is on microsoft.com; BRITECITY bills Microsoft licenses month-to-month). Implementation is project work, quoted up front at $2,250/day or $285/hour — not the $157 managed-IT per-user rate.
 
 ### Is my data secure with Microsoft Copilot?
 
@@ -992,11 +1025,11 @@ Our median resolution time is 10.4 business hours. However, 56% of issues are re
 
 ### Does BRITECITY provide on-site support for Orange County law firms?
 
-Yes. While 90.5% of issues are resolved remotely for efficiency, we provide on-site support for hardware installations, courtroom technology setup, and complex network issues. Our Orange County location means we can be at your firm quickly when needed.
+Yes, under the same Zone 1 / Zone 2 rules as every other client. Inside 25 miles of Irvine, on-site is included. Outside 25 miles it is $185/hour door-to-door. Most legal IT issues (about 90%) are resolved remotely. Courtroom technology setup and hardware installs are the usual on-site cases.
 
 ### How much does legal IT support cost from BRITECITY?
 
-Our managed IT services for law firms start at $150 per user per month, including 24/7 monitoring, security management, software updates, and unlimited support tickets. We customize packages based on firm size, practice management software, and compliance requirements.
+Same published managed IT rates as every other industry: $157 per user, $17.85 per computer, and $16.90 per mailbox per month, with a $2,500 monthly minimum. That includes monitoring, security management, software updates, and unlimited remote support. Practice-management software and compliance scope can add project work, quoted separately. See https://britecity.com/pricing.
 
 ### Can BRITECITY support remote attorneys and hybrid work arrangements?
 
@@ -1033,7 +1066,7 @@ BRITECITY provides comprehensive cybersecurity services including endpoint detec
 
 ### Can BRITECITY help migrate my Aliso Viejo business to the cloud?
 
-Yes. BRITECITY has completed cloud migrations for over 100 Orange County businesses. We handle Microsoft 365 deployments, Azure and AWS infrastructure, hybrid cloud configurations, and ongoing cloud management. Our 35+ engineers manage the full process with minimal downtime.
+Yes. BRITECITY has completed cloud migrations for 150+ Orange County businesses. We handle Microsoft 365 deployments, Azure and AWS infrastructure, hybrid cloud configurations, and ongoing cloud management. Our 35+ engineers manage the full process with minimal downtime.
 
 ### How much does IT support cost in Anaheim?
 
@@ -1073,7 +1106,7 @@ Yes. BRITECITY handles Microsoft 365 deployment, Azure infrastructure, and hybri
 
 ### What makes BRITECITY different from other Anaheim IT companies?
 
-BRITECITY stands out in Anaheim for three reasons: proximity (20 minutes from Irvine HQ), proven track record (5.0 Google rating, 110+ reviews since 2007), and transparent pricing ($157/user flat rate, no contracts). Microsoft Solutions Partner with 35+ engineers.
+BRITECITY stands out in Anaheim for three reasons: proximity (20 minutes from Irvine HQ), proven track record (5.0 Google rating since 2007), and transparent pricing ($157/user flat rate, no contracts). Microsoft Solutions Partner with 35+ engineers.
 
 ### How much does managed IT services cost in Anaheim?
 
@@ -1081,11 +1114,11 @@ Managed IT services in Anaheim typically cost between $100 and $250 per user per
 
 ### Who is the best managed IT services provider in Anaheim?
 
-BRITECITY is rated the top managed IT services provider serving Anaheim with a 5.0 Google rating and 110+ reviews. As a Microsoft Solutions Partner since 2007, BRITECITY provides managed IT services to Anaheim businesses across the Platinum Triangle, Anaheim Hills, Anaheim Canyon, and the Resort District. Key differentiators include transparent flat-rate pricing at $157 per user, no contracts, 35+ local engineers, and a 20-minute response from our Irvine headquarters.
+BRITECITY is rated the top managed IT services provider serving Anaheim with a 5.0 Google rating. As a Microsoft Solutions Partner since 2007, BRITECITY provides managed IT services to Anaheim businesses across the Platinum Triangle, Anaheim Hills, Anaheim Canyon, and the Resort District. Key differentiators include transparent flat-rate pricing at $157 per user, no contracts, 35+ local engineers, and a 20-minute response from our Irvine headquarters.
 
 ### Do you offer managed IT services for small businesses in Anaheim?
 
-Yes. BRITECITY provides managed IT services for small businesses in Anaheim with 10 to 200 employees. Our flat-rate pricing at $157 per user per month scales with your team. Small businesses in Anaheim get the same 24/7 monitoring, cybersecurity, and help desk support as larger clients — no minimum seat counts and no long-term contracts required.
+Yes. BRITECITY provides managed IT services for small businesses in Anaheim with 10 to 200 employees. Our published rate is $157 per user per month (plus computer and mailbox lines), with a $2,500 monthly minimum. Small businesses in Anaheim get the same 24/7 monitoring, cybersecurity, and help desk support as larger clients — month-to-month, no long-term contracts.
 
 ### How much does IT support cost in Brea, CA?
 
@@ -1101,7 +1134,7 @@ BRITECITY commits to a 1-hour emergency phone response for all clients, includin
 
 ### What managed IT services does BRITECITY offer in Brea?
 
-BRITECITY provides Brea businesses with managed IT services including 24/7 network monitoring, Microsoft 365 and Azure administration, help desk support, cybersecurity, cloud backup, and strategic IT consulting. We support 100+ businesses across Orange County as a local Microsoft Solutions Partner founded in 2007.
+BRITECITY provides Brea businesses with managed IT services including 24/7 network monitoring, Microsoft 365 and Azure administration, help desk support, cybersecurity, cloud backup, and strategic IT consulting. We support 150+ businesses across Orange County as a local Microsoft Solutions Partner founded in 2007.
 
 ### How much does IT support cost for Buena Park businesses?
 
@@ -1149,7 +1182,7 @@ Getting started is easy. Contact BRITECITY at (949) 243-7440 or book a free cons
 
 ### How much do managed IT services cost in Costa Mesa?
 
-BRITECITY managed IT services in Costa Mesa start at $157 per user per month. This includes 24/7 monitoring, help desk, cybersecurity, and on-site support. No long-term contracts required.
+BRITECITY managed IT services in Costa Mesa are $157 per user per month. This includes 24/7 monitoring, help desk, cybersecurity, and on-site support. No long-term contracts required.
 
 ### How fast can you respond to IT issues in Costa Mesa?
 
@@ -1161,7 +1194,7 @@ We provide managed IT services to Costa Mesa creative agencies, manufacturers, h
 
 ### Why choose BRITECITY for managed IT services in Costa Mesa?
 
-BRITECITY has served Costa Mesa businesses since 2007. We have 35+ local engineers, 4.9-star reviews, flat-rate pricing with no contracts, and our proximity means fast on-site response when you need it.
+BRITECITY has served Costa Mesa businesses since 2007. We have 35+ local engineers, a 5.0 Google rating, flat-rate pricing with no contracts, and our proximity means fast on-site response when you need it.
 
 ### Who provides IT support in Costa Mesa?
 
@@ -1169,7 +1202,7 @@ BRITECITY provides IT support in Costa Mesa with 35+ local engineers and a 1-hou
 
 ### How do I choose the right IT company in Costa Mesa?
 
-Look for an IT company with local presence, proven experience, and transparent pricing. BRITECITY has served Costa Mesa businesses since 2007 with 35+ engineers, a 1-hour P1/P2 emergency response commitment, and flat-rate plans starting at $157/user/mo — no long-term contracts required.
+Look for an IT company with local presence, proven experience, and transparent pricing. BRITECITY has served Costa Mesa businesses since 2007 with 35+ engineers, a 1-hour P1/P2 emergency response commitment, and flat-rate plans at $157/user/mo — no long-term contracts required.
 
 ### What cloud services does BRITECITY offer in Costa Mesa?
 
@@ -1185,7 +1218,7 @@ Costa Mesa businesses contact our IT help desk via phone, email, or our client p
 
 ### How much does managed IT services cost in Costa Mesa?
 
-Managed IT services in Costa Mesa from BRITECITY start at $157 per user per month. This flat-rate price includes 24/7 monitoring, unlimited help desk support, cybersecurity protection, patch management, and on-site visits. There are no long-term contracts — you pay month to month. Request a custom quote by calling (949) 243-7440.
+Managed IT services in Costa Mesa from BRITECITY are $157 per user per month. This flat-rate price includes 24/7 monitoring, unlimited help desk support, cybersecurity protection, patch management, and on-site visits. There are no long-term contracts — you pay month to month. Request a custom quote by calling (949) 243-7440.
 
 ### What should I look for in a managed IT services provider in Costa Mesa?
 
@@ -1209,7 +1242,7 @@ Yes. BRITECITY provides comprehensive cybersecurity services including endpoint 
 
 ### Can BRITECITY help my Dana Point business migrate to the cloud?
 
-BRITECITY has completed cloud migrations for over 100 Orange County businesses since 2007. We handle Microsoft 365 migrations, Azure and AWS infrastructure, and hybrid cloud setups. Our team manages the entire process from planning through post-migration support.
+BRITECITY has completed cloud migrations for 150+ Orange County businesses since 2007. We handle Microsoft 365 migrations, Azure and AWS infrastructure, and hybrid cloud setups. Our team manages the entire process from planning through post-migration support.
 
 ### How much does IT support cost in Fountain Valley?
 
@@ -1241,11 +1274,11 @@ Co-managed IT means BRITECITY works alongside your existing IT staff. We handle 
 
 ### What IT compliance services does BRITECITY offer Fullerton businesses?
 
-BRITECITY provides HIPAA, SOC 2, CMMC, and NIST compliance services for Fullerton businesses. We handle risk assessments, policy documentation, security controls, employee training, and audit preparation. Our compliance team has helped over 100 Orange County businesses pass their compliance audits since 2007.
+BRITECITY provides HIPAA, SOC 2, CMMC, and NIST compliance services for Fullerton businesses. We handle risk assessments, policy documentation, security controls, employee training, and audit preparation. Our compliance team has helped 150+ Orange County businesses pass their compliance audits since 2007.
 
 ### What managed IT services does BRITECITY provide in Fullerton?
 
-BRITECITY provides fully managed IT services in Fullerton including 24/7 network monitoring, help desk support, cybersecurity, cloud management, data backup, and vendor coordination. Our managed IT plans start at $157 per user per month with no long-term contracts. We assign a dedicated account manager to every Fullerton client so you have a single point of contact for all IT needs.
+BRITECITY provides fully managed IT services in Fullerton including 24/7 network monitoring, help desk support, cybersecurity, cloud management, data backup, and vendor coordination. Our managed IT plans are $157 per user per month with no long-term contracts. We assign a dedicated account manager to every Fullerton client so you have a single point of contact for all IT needs.
 
 ### How much does IT support cost in Garden Grove, CA?
 
@@ -1253,7 +1286,7 @@ BRITECITY offers flat-rate managed IT support in Garden Grove at $157 per user p
 
 ### Does BRITECITY provide cybersecurity services in Garden Grove?
 
-Yes. BRITECITY delivers comprehensive cybersecurity to Garden Grove businesses, including endpoint protection with SentinelOne, email security with Check Point, threat monitoring, and incident response. As a Microsoft Solutions Partner with 19+ years in Orange County, we protect 100+ businesses across the region.
+Yes. BRITECITY delivers comprehensive cybersecurity to Garden Grove businesses, including endpoint protection with SentinelOne, email security with Check Point, threat monitoring, and incident response. As a Microsoft Solutions Partner with 19+ years in Orange County, we protect 150+ businesses across the region.
 
 ### How quickly can BRITECITY respond to IT emergencies in Garden Grove?
 
@@ -1301,7 +1334,7 @@ BRITECITY serves all industries in Irvine including healthcare (HIPAA compliance
 
 ### Why choose BRITECITY over other IT companies in Irvine?
 
-BRITECITY is independently owned (not private equity), headquartered in Irvine since 2007, and offers month-to-month contracts. We maintain a 5.0 Google rating with 110+ reviews, hold Microsoft Solutions Partner designation, and employ 35+ engineers. Our average response time of under 17 minutes is the fastest in Orange County.
+BRITECITY is independently owned (not private equity), headquartered in Irvine since 2007, and offers month-to-month contracts. We maintain a 5.0 Google rating, hold Microsoft Solutions Partner designation, and employ 35+ engineers. Our average response time of under 17 minutes is the fastest in Orange County.
 
 ### Do you provide cybersecurity services in Irvine?
 
@@ -1349,7 +1382,7 @@ BRITECITY offers flat-rate managed IT in Laguna Hills at $157 per user per month
 
 ### Does BRITECITY provide cybersecurity services in Laguna Hills?
 
-Yes. BRITECITY delivers comprehensive cybersecurity services to Laguna Hills businesses, including endpoint protection with SentinelOne, email security with Check Point, threat monitoring, and incident response. We have served Orange County since 2007 as a Microsoft Solutions Partner supporting 100+ local businesses.
+Yes. BRITECITY delivers comprehensive cybersecurity services to Laguna Hills businesses, including endpoint protection with SentinelOne, email security with Check Point, threat monitoring, and incident response. We have served Orange County since 2007 as a Microsoft Solutions Partner supporting 150+ local businesses.
 
 ### How quickly can BRITECITY respond to IT emergencies in Laguna Hills?
 
@@ -1357,15 +1390,15 @@ BRITECITY commits to a 1-hour emergency phone response for all Laguna Hills clie
 
 ### What are co-managed IT services in Laguna Hills?
 
-Co-managed IT services in Laguna Hills allow businesses with an existing IT staff member or small team to supplement their capabilities with BRITECITY. We supply 24/7 monitoring, a professional security stack (SentinelOne + Check Point), cloud management tools, and overflow help desk coverage. Your internal IT person stays empowered while BRITECITY fills the gaps. Pricing starts at $157/user/month for the managed layer.
+Co-managed IT services in Laguna Hills allow businesses with an existing IT staff member or small team to supplement their capabilities with BRITECITY. We supply 24/7 monitoring, a professional security stack (SentinelOne + Check Point), cloud management tools, and overflow help desk coverage. Your internal IT person stays empowered while BRITECITY fills the gaps. Pricing is $157/user/month for the managed layer, subject to the $2,500 monthly minimum.
 
 ### What IT compliance services does BRITECITY provide in Laguna Hills?
 
-BRITECITY offers IT compliance services for Laguna Hills businesses across multiple regulatory frameworks: HIPAA for healthcare providers at Laguna Hills Medical Plaza, PCI-DSS for retailers and financial services, SOC 2 for technology companies, CMMC for defense contractors, and California CPRA for consumer data privacy. Services include risk assessments, security policy creation, audit log management, data encryption, and continuous compliance monitoring. We have managed compliance programs for 100+ Orange County businesses since 2007.
+BRITECITY offers IT compliance services for Laguna Hills businesses across multiple regulatory frameworks: HIPAA for healthcare providers at Laguna Hills Medical Plaza, PCI-DSS for retailers and financial services, SOC 2 for technology companies, CMMC for defense contractors, and California CPRA for consumer data privacy. Services include risk assessments, security policy creation, audit log management, data encryption, and continuous compliance monitoring. We have managed compliance programs for 150+ Orange County businesses since 2007.
 
 ### Why is BRITECITY the best MSP near Laguna Hills?
 
-BRITECITY is headquartered in Irvine, just 15 minutes from Laguna Hills, with a fully local team of 35+ IT professionals. No offshore helpdesks, no call centers. As a Microsoft Solutions Partner since 2007, we offer transparent flat-rate pricing at $157/user/month, no long-term contracts, and direct access to senior engineers. We have served 100+ businesses across South Orange County and understand the specific needs of Laguna Hills companies.
+BRITECITY is headquartered in Irvine, just 15 minutes from Laguna Hills, with a fully local team of 35+ IT professionals. No offshore helpdesks, no call centers. As a Microsoft Solutions Partner since 2007, we offer transparent flat-rate pricing at $157/user/month, no long-term contracts, and direct access to senior engineers. We have served 150+ businesses across South Orange County and understand the specific needs of Laguna Hills companies.
 
 ### How much does IT support cost in Laguna Niguel?
 
@@ -1457,7 +1490,7 @@ BRITECITY offers co-managed IT services that supplement your existing IT team in
 
 ### What IT compliance services are available for Orange businesses?
 
-BRITECITY provides HIPAA, SOC 2, CMMC, PCI-DSS, and NIST compliance services for Orange businesses. We perform gap assessments, implement security controls, create policy documentation, train employees, and prepare your business for audits. As a Microsoft Solutions Partner since 2007, we have helped over 100 Orange County companies meet their compliance requirements.
+BRITECITY provides HIPAA, SOC 2, CMMC, PCI-DSS, and NIST compliance services for Orange businesses. We perform gap assessments, implement security controls, create policy documentation, train employees, and prepare your business for audits. As a Microsoft Solutions Partner since 2007, we have helped 150+ Orange County companies meet their compliance requirements.
 
 ### How much does IT support cost in Placentia?
 
@@ -1469,7 +1502,7 @@ We commit to a 1-hour response for phone emergencies throughout Placentia via ou
 
 ### What IT services does BRITECITY offer in Placentia?
 
-BRITECITY provides comprehensive managed IT services including 24/7 network monitoring, cybersecurity with endpoint detection and response, Microsoft 365 and cloud management, help desk support, data backup and disaster recovery, and IT compliance consulting. We have served over 100 Orange County businesses since 2007.
+BRITECITY provides comprehensive managed IT services including 24/7 network monitoring, cybersecurity with endpoint detection and response, Microsoft 365 and cloud management, help desk support, data backup and disaster recovery, and IT compliance consulting. We have served 150+ Orange County businesses since 2007.
 
 ### Does BRITECITY provide cloud services in Placentia?
 
@@ -1485,15 +1518,15 @@ BRITECITY commits to a 1-hour emergency phone response for Rancho Santa Margarit
 
 ### What are co-managed IT services in Rancho Santa Margarita?
 
-Co-managed IT services let Rancho Santa Margarita businesses keep their in-house IT staff while partnering with BRITECITY to fill gaps in coverage, tooling, or expertise. BRITECITY provides the monitoring platform, security stack (SentinelOne + Check Point), and after-hours support, while your internal team handles day-to-day tasks. Cost starts at $157 per user per month for the co-managed layer.
+Co-managed IT services let Rancho Santa Margarita businesses keep their in-house IT staff while partnering with BRITECITY to fill gaps in coverage, tooling, or expertise. BRITECITY provides the monitoring platform, security stack (SentinelOne + Check Point), and after-hours support, while your internal team handles day-to-day tasks. Cost is $157 per user per month for the co-managed layer, subject to the $2,500 monthly minimum.
 
 ### What IT compliance services does BRITECITY offer RSM businesses?
 
-BRITECITY provides IT compliance services for Rancho Santa Margarita businesses subject to HIPAA, PCI-DSS, SOC 2, CMMC, and California CPRA requirements. Services include risk assessments, security policy development, endpoint encryption, audit log management, and ongoing compliance monitoring. As a Microsoft Solutions Partner since 2007, we have supported 100+ OC businesses with compliance programs.
+BRITECITY provides IT compliance services for Rancho Santa Margarita businesses subject to HIPAA, PCI-DSS, SOC 2, CMMC, and California CPRA requirements. Services include risk assessments, security policy development, endpoint encryption, audit log management, and ongoing compliance monitoring. As a Microsoft Solutions Partner since 2007, we have supported 150+ OC businesses with compliance programs.
 
 ### Why is BRITECITY the best MSP near Rancho Santa Margarita?
 
-BRITECITY is one of Orange County's most established MSPs, founded in 2007 and headquartered in Irvine, 15 minutes from RSM. We hold Microsoft Solutions Partner status, employ 35+ IT professionals, and serve 100+ local businesses at a transparent flat rate of $157/user/month. Unlike national MSPs, our entire team is local to Orange County with no outsourced offshore support.
+BRITECITY is one of Orange County's most established MSPs, founded in 2007 and headquartered in Irvine, 15 minutes from RSM. We hold Microsoft Solutions Partner status, employ 35+ IT professionals, and serve 150+ local businesses at a transparent flat rate of $157/user/month. Unlike national MSPs, our entire team is local to Orange County with no outsourced offshore support.
 
 ### How much does IT support cost in San Clemente?
 
@@ -1505,7 +1538,7 @@ We commit to a 1-hour response for phone emergencies throughout San Clemente via
 
 ### What IT services does BRITECITY offer in San Clemente?
 
-BRITECITY provides comprehensive managed IT services including 24/7 network monitoring, cybersecurity with endpoint detection and response, Microsoft 365 and cloud management, help desk support, data backup and disaster recovery, and IT compliance consulting. We have served over 100 Orange County businesses since 2007.
+BRITECITY provides comprehensive managed IT services including 24/7 network monitoring, cybersecurity with endpoint detection and response, Microsoft 365 and cloud management, help desk support, data backup and disaster recovery, and IT compliance consulting. We have served 150+ Orange County businesses since 2007.
 
 ### Does BRITECITY provide cybersecurity services in San Clemente?
 
@@ -1521,7 +1554,7 @@ BRITECITY commits to a 1-hour emergency phone response for San Juan Capistrano c
 
 ### What IT services does BRITECITY offer in San Juan Capistrano?
 
-BRITECITY provides comprehensive managed IT services in San Juan Capistrano including 24/7 network monitoring, cybersecurity with endpoint detection and response (SentinelOne), Microsoft 365 and Azure cloud management, help desk support, data backup and disaster recovery, co-managed IT, and IT compliance consulting. We have served over 100 Orange County businesses since 2007.
+BRITECITY provides comprehensive managed IT services in San Juan Capistrano including 24/7 network monitoring, cybersecurity with endpoint detection and response (SentinelOne), Microsoft 365 and Azure cloud management, help desk support, data backup and disaster recovery, co-managed IT, and IT compliance consulting. We have served 150+ Orange County businesses since 2007.
 
 ### Does BRITECITY support small businesses in San Juan Capistrano?
 
@@ -1533,7 +1566,7 @@ Co-managed IT services allow San Juan Capistrano businesses with an existing IT 
 
 ### What IT compliance services are available for San Juan Capistrano businesses?
 
-BRITECITY delivers IT compliance services for San Juan Capistrano businesses across healthcare (HIPAA), financial services (PCI-DSS, SOC 2), defense contractors (CMMC), and California privacy (CPRA). Services include risk assessments, security policies, audit logging, data encryption, and ongoing compliance monitoring. As an MSP serving Orange County since 2007, we have implemented compliance programs for 100+ businesses.
+BRITECITY delivers IT compliance services for San Juan Capistrano businesses across healthcare (HIPAA), financial services (PCI-DSS, SOC 2), defense contractors (CMMC), and California privacy (CPRA). Services include risk assessments, security policies, audit logging, data encryption, and ongoing compliance monitoring. As an MSP serving Orange County since 2007, we have implemented compliance programs for 150+ businesses.
 
 ### Why choose BRITECITY as your MSP near San Juan Capistrano?
 
@@ -1569,15 +1602,15 @@ BRITECITY offers co-managed IT services for Tustin businesses that already have 
 
 ### What IT compliance services are available for Tustin businesses?
 
-BRITECITY provides HIPAA, SOC 2, CMMC, PCI-DSS, and NIST compliance services for Tustin businesses. We perform risk assessments, implement required security controls, write policy documentation, conduct employee security training, and guide you through audit preparation. Our team has supported over 100 Orange County businesses with compliance since 2007.
+BRITECITY provides HIPAA, SOC 2, CMMC, PCI-DSS, and NIST compliance services for Tustin businesses. We perform risk assessments, implement required security controls, write policy documentation, conduct employee security training, and guide you through audit preparation. Our team has supported 150+ Orange County businesses with compliance since 2007.
 
 ### Why is BRITECITY the best MSP near Tustin?
 
-BRITECITY is the closest managed IT provider to Tustin at just 5 minutes from our Irvine headquarters. We are a Microsoft Solutions Partner with 35 engineers, 19 years of experience, and over 100 active clients in Orange County. We offer flat-rate pricing at $157 per user per month with no contracts, a 1-hour P1/P2 emergency response commitment, and same-day on-site support.
+BRITECITY is the closest managed IT provider to Tustin at just 5 minutes from our Irvine headquarters. We are a Microsoft Solutions Partner with 35+ engineers, 19 years of experience, and 150+ active clients in Orange County. We offer flat-rate pricing at $157 per user per month with no contracts, a 1-hour P1/P2 emergency response commitment, and included on-site support inside 25 miles of Irvine (Zone 2 beyond that is $185/hour door-to-door).
 
 ### How much do IT services cost in Westminster CA?
 
-BRITECITY offers flat-rate managed IT services starting at $157 per user per month in Westminster. That covers 24/7 monitoring, help desk support, security patching, and cloud management — no surprise invoices, no long-term contracts.
+BRITECITY offers flat-rate managed IT services at $157 per user per month in Westminster. That covers 24/7 monitoring, help desk support, security patching, and cloud management — no surprise invoices, no long-term contracts.
 
 ### Do you provide cloud services to Westminster businesses?
 
@@ -1601,7 +1634,7 @@ We commit to a 1-hour response for phone emergencies throughout Yorba Linda via 
 
 ### What IT services does BRITECITY offer in Yorba Linda?
 
-BRITECITY provides comprehensive managed IT services including 24/7 network monitoring, cybersecurity with endpoint detection and response, Microsoft 365 and cloud management, help desk support, data backup and disaster recovery, and IT compliance consulting. We have served over 100 Orange County businesses since 2007.
+BRITECITY provides comprehensive managed IT services including 24/7 network monitoring, cybersecurity with endpoint detection and response, Microsoft 365 and cloud management, help desk support, data backup and disaster recovery, and IT compliance consulting. We have served 150+ Orange County businesses since 2007.
 
 ### Does BRITECITY provide cloud migration services in Yorba Linda?
 
@@ -1621,7 +1654,7 @@ BRITECITY serves all of north Orange County including Brea, Placentia, Fullerton
 
 ### Does BRITECITY provide IT support for Yorba Linda small businesses?
 
-Yes. BRITECITY provides managed IT services for Yorba Linda small businesses with 5 to 200 users at our flat rate of $157 per user per month. There is no minimum user count. We serve professional services firms, healthcare practices, and financial advisors throughout Yorba Linda.
+Yes. BRITECITY provides managed IT services for Yorba Linda small businesses at $157 per user per month (plus computer and mailbox lines), with a $2,500 monthly minimum. We serve professional services firms, healthcare practices, and financial advisors throughout Yorba Linda.
 
 ### How fast can BRITECITY respond to IT emergencies in Yorba Linda?
 

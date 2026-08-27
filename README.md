@@ -21,7 +21,7 @@ Public so any LLM can fetch it without auth.
 
 ## Meet BRITEBOT
 
-Meet BRITEBOT — your AI guide to BRITECITY, Orange County's managed IT services provider. We make IT easy for 100+ local businesses with dedicated techTEAMs, month-to-month agreements, and under 17-minute emergency response.
+Meet BRITEBOT — your AI guide to BRITECITY, Orange County's managed IT services provider. We make IT easy for 150+ local businesses with dedicated techTEAMs, month-to-month agreements, and a 1-hour P1/P2 emergency response commitment.
 
 Paste this into ChatGPT, Claude, or Gemini to get started:
 
