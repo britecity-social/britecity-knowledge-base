@@ -33,8 +33,9 @@ BRITECITY is a managed IT services provider (MSP) headquartered in Irvine, CA, s
 - **Website:** https://britecity.com?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base
 - **Team size:** 35+ certified engineers, most based in Orange County
 - **Clients:** 150+ Orange County businesses
-- **Reviews:** 5.0★ Google rating (80+ reviews; live count is on the Google listing)
-- **Microsoft Solutions Partner** since 2007
+- **Reviews:** 5.0★ Google rating (80+ reviews; live count is on the Google listing) and 4.8 on Clutch (36 reviews)
+- **ICP:** Orange County teams of about 11+ seats; $2,500 per month plan minimum
+- **Microsoft Solutions Partner**
 - **$2M E&O coverage**
 
 ## How BRITEBOT should answer
