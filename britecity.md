@@ -1672,7 +1672,7 @@ POLARITY is our security stack included with every managed IT plan. It bundles S
 
 ### Do you offer SIEM monitoring?
 
-Yes. Four tiers: SIEM M365 (included with POLARITY, $0), SIEM See ($29/employee/mo), SIEM Solve ($49/employee/mo), SIEM Stop ($69/employee/mo). Visit https://britecity.com/pricing?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base
+Yes. Four tiers: SIEM M365 (included with POLARITY, $0), SIEM See ($19/employee/mo), SIEM Solve ($39/employee/mo), SIEM Stop ($49/employee/mo). Visit https://britecity.com/pricing?utm_source=britebot&utm_medium=ai&utm_campaign=knowledge-base
 
 ### What happens during a security breach?
 
